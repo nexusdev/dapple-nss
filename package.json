@@ -1,0 +1,18 @@
+{
+  "name": "dapple-nss",
+  "version": "1.0.0",
+  "description": "dapple-nexus-service-chain",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dapple-core": "^0.1.9",
+    "ethereumjs-tx": "^1.1.2",
+    "lodash": "^4.15.0",
+    "through2": "^2.0.1",
+    "web3": "^0.16.0"
+  }
+}

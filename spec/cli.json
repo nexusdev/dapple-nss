@@ -1,0 +1,34 @@
+{
+  "commands": [
+    {
+      "name": "run",
+      "summary": "deploy dapple-script to the nexus-service sidechain",
+      "options": [
+        {
+          "name": "<script>",
+          "summary": "script name"
+        }
+      ]
+    },
+    {
+      "name": "deposit",
+      "summary": "send ether to nexus service chain pegged contract",
+      "options": [
+        {
+          "name": "<wei>",
+          "summary": "the ammount in wei you want to send"
+        }
+      ]
+    },
+    {
+      "name": "withdraw",
+      "summary": "wisdaw all your funds on the nexus service chain",
+      "options": []
+    },
+    {
+      "name": "balance",
+      "summary": "print your account and its balance for the nss chain",
+      "options": []
+    }
+  ]
+}
