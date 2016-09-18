@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "dapple-core": "^0.1.9",
+    "dapple-chain": "0.0.15",
     "ethereumjs-tx": "^1.1.2",
     "lodash": "^4.15.0",
     "through2": "^2.0.1",

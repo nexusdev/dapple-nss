@@ -29,6 +29,11 @@
       "name": "balance",
       "summary": "print your account and its balance for the nss chain",
       "options": []
+    },
+    {
+      "name": "server",
+      "summary": "start an nss server",
+      "options": []
     }
   ]
 }
